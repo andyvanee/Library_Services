@@ -1,7 +1,11 @@
 Library_Services
 ================
 
-Some workflows making Finder, Terminal and text handling better on OSX
+Some workflows making Finder, Terminal and text handling better on OSX.
+
+Enable these by copying them to ~/Library/Services and restart the
+related apps. Enable/Disable them or create keyboard shortcuts for them in
+`System Preferences > Keyboard > Keyboard Shortcuts > Services`.
 
 ### Copy Path To Clipboard.workflow
 
@@ -31,3 +35,9 @@ Terminal window.
 ### Word Count.workflow
 
 Perform a word count of selected text.
+
+Contributing
+============
+
+Feel free to fork and submit pull requests, or simply create a
+[new issue here](https://github.com/Andyvanee/Library_Services/issues)
