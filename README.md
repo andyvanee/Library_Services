@@ -28,8 +28,8 @@ it with the HTML equivalent.
 
 ### New File.workflow
 
-Right click a folder in Finder to create a new file named _Untitled.txt
-by default. I've always found it odd that Finder let's you create a new
+Right click a folder in Finder to create a new file ( _Untitled.txt ).
+I've always found it odd that Finder let's you create a new
 folder, but not a new file...
 
 ### Open In Terminal.workflow
