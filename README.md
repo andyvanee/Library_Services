@@ -7,6 +7,9 @@ Enable these by copying them to ~/Library/Services and restart the
 related apps. Enable/Disable them or create keyboard shortcuts for them in
 `System Preferences > Keyboard > Keyboard Shortcuts > Services`.
 
+Most of these create new entries in the Right-click (contextual) menu of
+an application. They are editable using Automator.
+
 ### Copy Path To Clipboard.workflow
 
 Takes files/folders in Finder and copies the POSIX path to the clipboard
@@ -16,6 +19,7 @@ for pasting into Terminal, etc.
 
 Takes selected text (Markdown formatted) in any application, and displays
 it in a web browser.
+[Markdown.pl](http://daringfireball.net/projects/markdown/) included.
 
 ### Markdown Selected.workflow
 
@@ -25,7 +29,8 @@ it with the HTML equivalent.
 ### New File.workflow
 
 Right click a folder in Finder to create a new file named _Untitled.txt
-by default.
+by default. I've always found it odd that Finder let's you create a new
+folder, but not a new file...
 
 ### Open In Terminal.workflow
 
